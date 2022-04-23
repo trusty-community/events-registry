@@ -1,0 +1,2 @@
+# EventsRegistry
+The Events Registry is the cornerstone for the implementation traceability, track and trace and food transparency projects. It facilitates the transparent listing of traceability events on blockchain platform (permissionless and permissioned), and enables a transparent backbone for the global food supply-chain. It is the central repository for all information and documentation relating to Events Registry and how it works. The Events Registry also ensures identity and timestamping for traceability events.
